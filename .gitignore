@@ -1,0 +1,15 @@
+*.0
+.git
+*.mat
+*runs/*
+*.png
+*.jpg
+*.pth*
+*.pth.tar*
+*.pt*
+*.mp4*
+*__pycache__*
+library
+.ipynb_checkpoints
+*.idea
+*.ipynb
