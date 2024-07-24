@@ -13,3 +13,4 @@ library
 .ipynb_checkpoints
 *.idea
 *.ipynb
+LICENSE.md
